@@ -1,77 +1,13 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+remote_theme: just-the-docs/just-the-docs
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title:
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-twitter_username: KLNelsonRD
-github_username: kln-rdn
-minimal_mistakes_skin: dirt
-search: false
+# Disable the search feature
+search_enabled: false
 
-# Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:categories/:title/
-
-include:
-  - _pages
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Plugins (previously gems:)
+# Include custom CSS file
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
+  - jekyll-remote-theme
   - jekyll-include-cache
 
-author:
-  name   : "Kendra L. Nelson"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Doctoral candidate, dietitian."
-  links:
-    - label: "LinkedIn"
-      icon: "fa-brands fa-linkedin"
-      url: "https://www.linkedin.com/in/klnelsonrd"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/kln-rdn"
-- label: "Email"
-      icon: "fa-regular fa-envelope"
-      url: "mailto:KendraNelson@gmail.com"
-
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: false
-      comments: true
+# Custom CSS configuration
+sass:
+  custom_css: _configcustomize.css
