@@ -1,0 +1,4 @@
+/* Override the accent color to navy blue */
+:root {
+  --theme-accent-color: #000080;
+}
