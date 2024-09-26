@@ -1,5 +1,11 @@
+---
+title: "UNC Dissertation Resources"
+date: 2023-11-01
+lastmod: 2024-09-26
+---
+
 # Introduction
-This file serves as a repository of useful information and resources for writing the dissertation.
+This page is being created to collect useful resources for writing the dissertation. It is being written with the needs of UNC-Chapel Hill's Nutrition doctoral students in mind.
 
 # UNC Guides
 UNC and its entities provide a few guides of interest, which should be referenced and followed. All of them apply (presuming you are in the NUTR department at UNC-CH), and so read each of them.
@@ -10,13 +16,15 @@ UNC and its entities provide a few guides of interest, which should be reference
   
 * [Dissertation Boot Camps](https://writingcenter.unc.edu/dissertation-boot-camp/) are held usually once per semester, hosted by the Writing Center. They often will offer a virtual version as well; these are not "instructional" for how to create the dissertation, but are dedicated times to write with support and encouragement.
   
-* [Thesis and Dissertation Resources](https://gradschool.unc.edu/academics/thesis-diss/) from the Graduate School - Includes more information and resources from the graduate school, including recorded formatting workshops found on YT. Direct links to the recordings are below. Note that during this workshop (the PC version, at least, which Kendra watched!) the "audience" is following along with documents they had been provided. Kendra reached out to the host of the workshop and obtained copies of these files; please do not share these files outside of the lab without permission of Dr. Brandt.
+* [Thesis and Dissertation Resources](https://gradschool.unc.edu/academics/thesis-diss/) from the Graduate School - Includes more information and resources from the graduate school, including recorded formatting workshops found on YT. Direct links to the recordings are below. Note that during this workshopthe "audience" is following along with documents they had been provided. I've reached out to the host of the workshop, [Dr. Patrick Brandt](https://bbsp.unc.edu/employee/patrick-brandt-phd/), in order to obtain the template files below.
   
 	* [Mac](https://www.youtube.com/watch?v=YohW0eyuLRc)
 	* [Windows](https://www.youtube.com/watch?v=xO_zU3neado)
 
+
 ## Dr. Brandt's Guides
 [Download Dr. Brandt's template file here.](https://docs.google.com/document/d/1lUChtOekQ0fq2fXfCCZvAKGX2noFaq3Y/edit?usp=sharing&ouid=113231950692894093702&rtpof=true&sd=true)
+
 ### Landscape Page Numbers
 1. Add a section break at the bottom of the page before the page you want to rotate. (“Page Layout” > “Breaks” > “Section Break - next page”)
 2. Add a section break at the bottom of the page that will be turned.  
@@ -68,3 +76,7 @@ UNC and its entities provide a few guides of interest, which should be reference
 2. The extra text that appears between {brackets} after marking the text will not appear in the printed document or a PDF that you generate.  
 3. **Very Important**: When adding more than one “Table of Figures” you will be asked, “Do you want to replace the selected table?”. Just click “no” and all tables of figures/tables/equations/schemes/etc marked with different table identifiers will coexist in the same document.
 4. If the table of figures needs to be edited (for example changed to double spacing) then you will need to modify the formatting similar to how it is explained for the TOC styles under “Other TOC tips” #2 and #4 on page 1 of this handout.
+
+# Other Resources
+
+The Carolina Digital Repository from the University Libraries houses all dissertations submitted to the university. You will likely need to log in with your ONYEN, but this is a great resource to view examples of dissertations. [At this link](https://cdr.lib.unc.edu/catalog?f%5Baffiliation_label_sim%5D%5B%5D=Department+of+Nutrition&f%5Bresource_type_sim%5D%5B%5D=Dissertation&locale=en) you can find all Nutrition doctoral dissertations submitted to the repository. You can also filter further by advisor to see dissertations from specific labs. 
