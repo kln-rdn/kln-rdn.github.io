@@ -1,7 +1,9 @@
 ---
 title: "UNC Dissertation Resources"
+author: "Kendra L. Nelson, KendraNelson(at)gmail(dot)com"
 date: 2023-11-01
 lastmod: 2024-09-26
+nav_exclude: true
 ---
 
 # Introduction
