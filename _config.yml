@@ -2,11 +2,17 @@ remote_theme: just-the-docs/just-the-docs
 
 # Disable the search feature
 search_enabled: false
-
+# Disable navigation bar
+show_navbar: false
+# Disable footer navigation links
+footer_links: false
 # Include custom CSS file
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
+
+
+
 
 # Custom CSS configuration
 sass:
