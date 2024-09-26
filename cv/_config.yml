@@ -1,0 +1,6 @@
+# Specify the theme directory
+defaults:
+  - scope:
+      path: "cv/"
+    values:
+      layout: "cv"
