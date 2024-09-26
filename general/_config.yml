@@ -1,8 +1,0 @@
-# Config for /general/ section
-nav_order: 1
-nav:
-  - title: "General"
-    url: "/general/"
-    children:
-      - title: "General Home"
-        url: "/general/"
