@@ -26,8 +26,6 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
 
 include:
   - _pages
@@ -64,16 +62,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kln-rdn"
-
-footer:
-  links:
-    - label: "LinkedIn"
-      icon: "fa-brands fa-linkedin"
-      url: "https://www.linkedin.com/in/klnelsonrd"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/kln-rdn"
-    - label: "Email"
+- label: "Email"
       icon: "fa-regular fa-envelope"
       url: "mailto:KendraNelson@gmail.com"
 
