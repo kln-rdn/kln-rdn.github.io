@@ -4,7 +4,7 @@ plugins:
 
 # Default title and description for the whole site
 title: "A Kendra Nelson Production . . ." 
-description: "Created by me!"
+author: "Kendra L. Nelson, MPH, RDN - KendraNelson (at) gmail (dot) com"
 search_enabled: true
 
 # Default navigation behaviour
