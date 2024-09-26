@@ -10,10 +10,6 @@ footer_links: false
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
-
-
-
-
 # Custom CSS configuration
 sass:
   custom_css: _configcustomize.css
