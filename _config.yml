@@ -2,14 +2,25 @@ remote_theme: just-the-docs/just-the-docs
 
 # Disable the search feature
 search_enabled: false
-# Disable navigation bar
-show_navbar: false
-# Disable footer navigation links
-footer_links: false
-# Include custom CSS file
-plugins:
-  - jekyll-remote-theme
-  - jekyll-include-cache
+
+just_the_docs:
+  # Disable the site title and logo in the sidebar
+  logo: false
+  show_on_page_nav: true  # Enables the table of contents on the current page
+
+  # Disable the navigation bar and footer links
+  show_navbar: false
+  footer_links: false
+
+  # Show only the table of contents for the current page in the sidebar
+  show_sidebar: true  # Keep the sidebar, but customize it
+
+  # Disable global navigation, only display the TOC for the current page
+  collections:
+    docs:
+      output: true
+      sidebar: false  # No navigation links in the sidebar
+
 # Custom CSS configuration
 sass:
   custom_css: _configcustomize.css
